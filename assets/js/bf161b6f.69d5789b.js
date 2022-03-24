@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcb_docs=self.webpackChunkcb_docs||[]).push([[613],{6076:function(e){e.exports=JSON.parse('{"permalink":"/cb-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
