@@ -44,21 +44,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'CB Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Home',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Introdução',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Introdução',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/carlosBSMedeiros',
             label: 'GitHub',
             position: 'right',
           },
@@ -72,42 +71,26 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/Introdução',
               },
             ],
           },
+          
           {
-            title: 'Community',
+            title: 'Mais',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/carlos-bs-medeiros/',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} carlosBSMedeiros. Construido com Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
