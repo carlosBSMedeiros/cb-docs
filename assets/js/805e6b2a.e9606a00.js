@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcb_docs=self.webpackChunkcb_docs||[]).push([[94],{4871:function(c){c.exports=JSON.parse('{"allTagsPath":"/cb-docs/blog/tags","slug":"/cb-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/cb-docs/blog/tags/facebook"}')}}]);

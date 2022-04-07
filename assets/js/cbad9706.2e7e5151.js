@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcb_docs=self.webpackChunkcb_docs||[]).push([[758],{4093:function(o){o.exports=JSON.parse('{"permalink":"/cb-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
